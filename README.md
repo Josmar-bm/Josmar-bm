@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey My Name Is Josmar And I Code Some Stuff
+
+[![yourUserName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourUserName)](https://github.com/yourUserName/github-readme-stats)
 
 <!--
 **Josmar-bm/Josmar-bm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

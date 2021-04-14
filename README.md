@@ -17,7 +17,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="hhttps://user-images.githubusercontent.com/65182748/114730918-4d301880-9d0f-11eb-89cf-e157f3cf4ded.jpg">
+<img align="left" alt="PostgreSQL" width="26px" src="https://user-images.githubusercontent.com/65182748/114730918-4d301880-9d0f-11eb-89cf-e157f3cf4ded.jpg">
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/65182748/114730501-ec084500-9d0e-11eb-9d54-eb0b6a50de2f.png" />
